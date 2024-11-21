@@ -5,7 +5,7 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : IS445 Analysis of Building Data Visualizations
+title               : IS445 Jekyll Template 
 description         : >-
                       I am definitely not a corgi!
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
@@ -13,8 +13,6 @@ baseurl             : ""   # Change to empty quotes if you are hosting your site
 repository          :                     # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/Average Square Footage by Year.json" style="width: 100%"></vegachart>
 
 ### Plugins ###
 plugins:
